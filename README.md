@@ -66,6 +66,7 @@ Why Sepolia:
 - safe for development
 - uses test ETH (no real money)
 - same Ethereum behavior for learning/demo
+- it is very safe and secured.
 
 ## 5. AI Usage Clarification
 
